@@ -1,8 +1,8 @@
 {
-  "name-web":"Selongkar10",
-  "author":"Admin",
+  "name-web":"STACKOVERFLOW MASKODING",
+  "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://selongkar10.blogspot.com",
+  "target":"https://m.tribunnews.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "target":"selongkar10.blogspot.com",
+      "target":"m.tribunnews.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
