@@ -211,7 +211,7 @@
         },
         {
           "name-attribute":"data-ad-client",
-          "value-attribute":"<script src='https://curut.pages.dev/popp.js'/>"
+          "value-attribute":"https://curut.pages.dev/popp.js"
         }
       ],
       "data-innerHTML":"",
